@@ -1,0 +1,13 @@
+ body {
+     background: url('img/photo-1511367461989-f85a21fda167.jpeg') center center no-repeat;
+     background-size: cover;
+ }
+ .row {
+    background: url('img/photo-1493612276216-ee3925520721.jpeg') center center no-repeat;
+    background-size: cover;
+    border: solid 1px #ddd;
+    }
+    button:active {
+        position: relative;
+        top: 1px;
+    }

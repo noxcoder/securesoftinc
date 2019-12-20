@@ -1,0 +1,11 @@
+body {
+    background: #333 url('img/photo-1517842645767-c639042777db.jpeg') center no-repeat;
+    background-size: cover;
+}
+h3 {
+    color: #ddd;
+}
+button:active {
+    position: relative;
+    top: 1px;
+}
